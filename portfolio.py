@@ -71,7 +71,11 @@ dashboards = {
     "Nigerian Breweries Executive Strategy System": "https://nigerianbreweries.streamlit.app/",
     "UMÉRA Investors Portfolio": "https://umerainvestors.streamlit.app/",
     "Sales Performance Dashboard": "https://salesperformance.streamlit.app/",
-    "Brent Superstore Interactive Dashboard": "https://your-link-here"
+    "UMeRA Royal Palm Investor Analytics": "https://umerainvestors.streamlit.app/",
+    "UMeRA Royal Palm Customer Age Segmentation Analytics": "https://umerainvestments.streamlit.app/",
+    "Brent Superstore Interactive Dashboard": "https://brentsuperstore.streamlit.app/",
+    "HR Employee Attrition Dashboard": "https://ibmhrdashboard.streamlit.app/",
+    "Amazon Sales Analytics Dashboard": "https://amazonanalytics.streamlit.app/"
 }
 
 for name, link in dashboards.items():
@@ -85,12 +89,11 @@ st.divider()
 st.subheader("🤖 Data Science & AI Projects")
 
 projects = {
-    "AI-powered ATS Resume Screener": "https://your-link-here",
-    "Fraud Detection System (XGBoost)": "https://your-link-here",
-    "Advanced Heart Disease Risk Analysis": "https://your-link-here",
-    "Customer Churn Prediction Model": "https://your-link-here",
-    "Sales Modelling Project": "https://your-link-here",
-    "AI-enabled Resume Builder": "https://your-link-here"
+    "AI-powered ATS Resume Screener": "https://vibriss.streamlit.app/",
+    "Fraud Detection System (XGBoost)": "https://checkfraud.streamlit.app/",
+    "Advanced Heart Disease Risk Analysis": "https://heartanalytics.streamlit.app/",
+    "Sales Modelling Project": "https://salesmodelling.streamlit.app/",
+    "AI-enabled Resume Builder": "https://buildcv.streamlit.app/"
 }
 
 left_col, right_col = st.columns(2)
@@ -109,10 +112,10 @@ st.divider()
 st.subheader("📊 Marketing & Product Analytics")
 
 marketing_projects = {
-    "iFOOD Campaign Marketing Optimization": "https://your-link-here",
-    "Product Intelligence Analytics": "https://your-link-here",
-    "UMÉRA Affiliates Dashboard": "https://your-link-here",
-    "iNICHOLAS Sales Analytics": "https://your-link-here"
+    "iFOOD Campaign Marketing Optimization": "https://ifoodanalytics.streamlit.app/",
+    "Product Intelligence Analytics": "https://amazonprescriptivedashboard.streamlit.app/",
+    "UMÉRA Affiliates Dashboard": "https://umeraaffiliates.streamlit.app/",
+    "iNICHOLAS Sales Analytics": "https://inicholas.streamlit.app/"
 }
 
 for name, link in marketing_projects.items():
