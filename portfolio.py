@@ -33,8 +33,8 @@ st.divider()
 st.subheader("🔗 Professional Profiles")
 
 profile_links = {
-    "LinkedIn": "https://www.linkedin.com/",
-    "Portfolio Website": "https://your-portfolio-link.com",
+    "LinkedIn": "www.linkedin.com/in/kajolagbenga/",
+    # "Portfolio Website": "https://your-portfolio-link.com",
     "Email": "mailto:k.gbenga234@gmail.com"
 }
 
@@ -67,10 +67,10 @@ st.divider()
 st.subheader("📈 Dashboards & Business Intelligence Systems")
 
 dashboards = {
-    "MTN H1 2025 Analytical Project": "https://your-link-here",
-    "Nigerian Breweries Executive Strategy System": "https://your-link-here",
-    "UMÉRA Investors Portfolio": "https://your-link-here",
-    "Sales Performance Dashboard": "https://your-link-here",
+    "MTN H1 2025 Analytical Project": "https://mtnanalytics.streamlit.app",
+    "Nigerian Breweries Executive Strategy System": "https://nigerianbreweries.streamlit.app/",
+    "UMÉRA Investors Portfolio": "https://umerainvestors.streamlit.app/",
+    "Sales Performance Dashboard": "https://salesperformance.streamlit.app/",
     "Brent Superstore Interactive Dashboard": "https://your-link-here"
 }
 
